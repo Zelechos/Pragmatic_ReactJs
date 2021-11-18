@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Woman in Tech!!</title>
+    <!-- Cargando el script con componente hecho en vanilla JS  -->
+    <!-- <script src="./script.js"></script> -->
+    
+    <!-- Cargando React Js -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+
+    
+    <!-- Para usar JSX y react sea mas facil de utilizar-->
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    
+    <!-- Cargo mi script donde trabajo por primera vez con ReactJs -->
+    <!-- <script type="text/babel" src="./script-react.js"></script> -->
+    <script type="text/babel" src="./contador.js"></script>
+
+
+    <style>
+        img{
+            box-shadow: 0 0 15px #999 ;
+            border-radius: 50%;
+        }
+
+        img.disabled{
+            opacity: 0.3;
+        }
+        
+        picture{
+            display: flex;
+            flex-direction: column;
+            text-align:center;
+            width: 100px;
+        }
+
+        picture.is-very-small{
+            width: 35px;
+        }
+
+        picture.is-small{
+            width: 50px;
+        }
+
+        
+        picture.is-large{
+            width: 150px;
+        }
+
+        picture.is-very-large{
+            width: 200px;
+        }
+
+        div{
+            font-size: 30px;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Woman in Tech!!</h1>
+    <div id="app">
+        <!-- aqui traemos nuestro componente creado con vanilla javascript -->
+    </div>    
+</body>
+</html>
