@@ -28,5 +28,5 @@ function Contador (){
 ReactDOM.render(
     <div>
         <Contador />
-
-    </div> , $app);
+    </div> 
+    , $app);
