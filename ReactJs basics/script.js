@@ -30,6 +30,4 @@ window.addEventListener('load', ()=> {
         });    
     });
 
-    
-
 });
