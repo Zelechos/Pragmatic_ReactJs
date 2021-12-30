@@ -15,3 +15,12 @@
 - Parte Visual
 
 ![image](https://user-images.githubusercontent.com/41464891/147785635-1309601d-a88f-47c0-93aa-ac2cc6f0363a.png)
+
+## Podemos Tener muchos componentes en una web como un Arbol de componentes :
+
+<!-- POner la imagen de arbol de componentes aqui -->
+
+## Conceptos que Debemos Entender : 
+- Virtual DOM
+- Hooks
+- Closures
