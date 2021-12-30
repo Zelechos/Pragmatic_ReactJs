@@ -14,4 +14,4 @@
 - Parte Funcional
 - Parte Visual
 
-[](./ComponentesReact.png)
+![image](https://user-images.githubusercontent.com/41464891/147785635-1309601d-a88f-47c0-93aa-ac2cc6f0363a.png)
